@@ -67,16 +67,13 @@ def ccs_train_route():
                 message = "No records Found\n TRY AGAIN"
                 return render_template("train.html", message=message, image_url=img_url)
     except ValueError as e:
-        # return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
-        raise e
+        return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
 
     except KeyError as e:
-        # return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
-        raise e
+        return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
 
     except Exception as e:
-        # return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
-        raise e
+        return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
 
 
 @app.route('/prediction', methods=["POST"])
@@ -123,17 +120,16 @@ def ee_prediction_route():
                 return render_template("predict.html", message=message, records=result, image_url=img_url)
 
     except ValueError as e:
-        # message = f"Value Error: {str(e)}\nTry Again"
-        # return render_template("predict.html", message=message, image_url=img_url)
-        raise e
+        message = f"Value Error: {str(e)}\nTry Again"
+        return render_template("predict.html", message=message, image_url=img_url)
+
     except KeyError as e:
-        # message = f"Key Error: {str(e)}\nTry Again"
-        # return render_template("predict.html", message=message, image_url=img_url)
-        raise e
+        message = f"Key Error: {str(e)}\nTry Again"
+        return render_template("predict.html", message=message, image_url=img_url)
+
     except Exception as e:
-        # message = f"Error: {str(e)}\nTry Again"
-        # return render_template("predict.html", message=message, image_url=img_url)
-        raise e
+        message = f"Error: {str(e)}\nTry Again"
+        return render_template("predict.html", message=message, image_url=img_url)
 
 
 @app.route("/logs", methods=["POST"])
