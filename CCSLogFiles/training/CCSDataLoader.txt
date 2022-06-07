@@ -8,3 +8,5 @@ INFO 05/31/2022 07:46:56 AM TRAINING: The data is loaded successfully as a panda
 INFO 05/31/2022 07:47:32 AM TRAINING: The data is loaded successfully as a pandas dataframe
 INFO 05/31/2022 07:48:41 AM TRAINING: The data is loaded successfully as a pandas dataframe
 INFO 05/31/2022 07:56:51 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/07/2022 05:55:16 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/07/2022 07:11:10 PM PREDICTION: The data is loaded successfully as a pandas dataframe

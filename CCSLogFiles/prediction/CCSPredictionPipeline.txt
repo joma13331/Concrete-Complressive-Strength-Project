@@ -24,3 +24,9 @@ INFO 05/31/2022 07:30:47 AM PREDICTION: End of EEPrediction Pipeline
 INFO 05/31/2022 07:34:24 AM PREDICTION: Start of Prediction Pipeline
 INFO 05/31/2022 07:34:24 AM PREDICTION: Data to predict on obtained
 INFO 05/31/2022 07:34:24 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/07/2022 05:53:00 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 05:53:00 PM PREDICTION: Data to predict on obtained
+ERROR 06/07/2022 05:53:00 PM PREDICTION: There was an ERROR while performing prediction on given data: 'NoneType' object has no attribute 'predict'
+INFO 06/07/2022 07:11:10 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 07:11:10 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 07:11:11 PM PREDICTION: End of EEPrediction Pipeline

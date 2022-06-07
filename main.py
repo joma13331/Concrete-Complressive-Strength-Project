@@ -115,7 +115,6 @@ def ee_prediction_route():
 
                 pred_pipeline = CCSPredictionPipeline()
                 result = pred_pipeline.ccs_predict()
-                print(result)
 
                 return render_template("predict.html", message=message, records=result, image_url=img_url)
 

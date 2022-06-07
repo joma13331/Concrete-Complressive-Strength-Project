@@ -94,3 +94,89 @@ INFO 05/31/2022 07:56:51 AM scalar.pickle has been save in CCSModels/
 INFO 05/31/2022 07:56:52 AM cluster.pickle has been save in CCSModels/
 INFO 05/31/2022 07:56:52 AM cluster.pickle has been save in CCSModels/
 INFO 05/31/2022 07:56:52 AM cluster.pickle has been save in CCSModels/
+INFO 06/07/2022 05:53:00 PM model at CCSModels/scalar.pickle loaded successfully
+INFO 06/07/2022 05:53:00 PM model at CCSModels/scalar.pickle loaded successfully
+INFO 06/07/2022 05:53:00 PM model at CCSModels/cluster.pickle loaded successfully
+INFO 06/07/2022 05:53:00 PM model at CCSModels/cluster.pickle loaded successfully
+INFO 06/07/2022 05:53:00 PM No Model Found
+INFO 06/07/2022 05:53:00 PM No Model Found
+INFO 06/07/2022 05:55:17 PM scalar.pickle has been save in CCSModels/
+INFO 06/07/2022 05:55:17 PM scalar.pickle has been save in CCSModels/
+INFO 06/07/2022 05:55:18 PM cluster.pickle has been save in CCSModels/
+INFO 06/07/2022 05:55:18 PM cluster.pickle has been save in CCSModels/
+INFO 06/07/2022 05:55:18 PM cluster.pickle has been save in CCSModels/
+INFO 06/07/2022 06:03:28 PM xgb_cluster_4.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 06:03:28 PM xgb_cluster_4.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 06:03:28 PM xgb_cluster_4.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 06:14:16 PM xgb_cluster_1.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 06:14:16 PM xgb_cluster_1.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 06:14:16 PM xgb_cluster_1.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 06:25:11 PM xgb_cluster_2.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 06:25:11 PM xgb_cluster_2.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 06:25:11 PM xgb_cluster_2.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 06:58:15 PM xgb_cluster_0.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 06:58:15 PM xgb_cluster_0.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 06:58:15 PM xgb_cluster_0.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 07:09:20 PM xgb_cluster_3.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 07:09:20 PM xgb_cluster_3.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 07:09:20 PM xgb_cluster_3.pickle has been save in CCSModels/CCSMLModels/
+INFO 06/07/2022 07:11:10 PM model at CCSModels/scalar.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/scalar.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/scalar.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/scalar.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/scalar.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/cluster.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/cluster.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/cluster.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/cluster.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/cluster.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_4.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_4.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_4.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_4.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_4.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM model at CCSModels/CCSMLModels/xgb_cluster_4.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/CCSMLModels/xgb_cluster_4.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/CCSMLModels/xgb_cluster_4.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/CCSMLModels/xgb_cluster_4.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/CCSMLModels/xgb_cluster_4.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_1.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_1.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_1.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_1.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_1.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM model at CCSModels/CCSMLModels/xgb_cluster_1.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/CCSMLModels/xgb_cluster_1.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/CCSMLModels/xgb_cluster_1.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/CCSMLModels/xgb_cluster_1.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM model at CCSModels/CCSMLModels/xgb_cluster_1.pickle loaded successfully
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_2.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_2.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_2.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_2.pickle selected for prediction
+INFO 06/07/2022 07:11:10 PM file: xgb_cluster_2.pickle selected for prediction
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_2.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_2.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_2.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_2.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_2.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM file: xgb_cluster_0.pickle selected for prediction
+INFO 06/07/2022 07:11:11 PM file: xgb_cluster_0.pickle selected for prediction
+INFO 06/07/2022 07:11:11 PM file: xgb_cluster_0.pickle selected for prediction
+INFO 06/07/2022 07:11:11 PM file: xgb_cluster_0.pickle selected for prediction
+INFO 06/07/2022 07:11:11 PM file: xgb_cluster_0.pickle selected for prediction
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_0.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_0.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_0.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_0.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_0.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM file: xgb_cluster_3.pickle selected for prediction
+INFO 06/07/2022 07:11:11 PM file: xgb_cluster_3.pickle selected for prediction
+INFO 06/07/2022 07:11:11 PM file: xgb_cluster_3.pickle selected for prediction
+INFO 06/07/2022 07:11:11 PM file: xgb_cluster_3.pickle selected for prediction
+INFO 06/07/2022 07:11:11 PM file: xgb_cluster_3.pickle selected for prediction
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_3.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_3.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_3.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_3.pickle loaded successfully
+INFO 06/07/2022 07:11:11 PM model at CCSModels/CCSMLModels/xgb_cluster_3.pickle loaded successfully

@@ -149,3 +149,29 @@ INFO 05/31/2022 07:56:51 AM TRAINING: Data Clustering Started
 INFO 05/31/2022 07:56:52 AM TRAINING: Data Clustering Completed
 INFO 05/31/2022 07:56:52 AM TRAINING: Start of Training for cluster 4
 INFO 05/31/2022 07:56:57 AM TRAINING: There was an ERROR in obtaining best model: A task has failed to un-serialize. Please ensure that the arguments of the function are all picklable.
+INFO 06/07/2022 05:55:16 PM TRAINING: Start of Training Pipeline
+INFO 06/07/2022 05:55:16 PM TRAINING: Getting Validated Data
+INFO 06/07/2022 05:55:16 PM TRAINING: Validated Data Obtained
+INFO 06/07/2022 05:55:16 PM TRAINING: Data Preprocessing started
+INFO 06/07/2022 05:55:16 PM TRAINING: Removed the 'ID' column
+INFO 06/07/2022 05:55:16 PM TRAINING: Separated the features and labels
+INFO 06/07/2022 05:55:16 PM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/07/2022 05:55:16 PM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/07/2022 05:55:16 PM TRAINING: Converted all possible continuous columns to normal
+INFO 06/07/2022 05:55:17 PM TRAINING: Dropped all the relevant columns after feature selection
+INFO 06/07/2022 05:55:17 PM TRAINING: All the features have been scaled
+INFO 06/07/2022 05:55:17 PM TRAINING: Data Preprocessing completed
+INFO 06/07/2022 05:55:17 PM TRAINING: Data Clustering Started
+INFO 06/07/2022 05:55:18 PM TRAINING: Data Clustering Completed
+INFO 06/07/2022 05:55:18 PM TRAINING: Start of Training for cluster 4
+INFO 06/07/2022 06:03:28 PM TRAINING:Model for cluster 4 trained
+INFO 06/07/2022 06:03:28 PM TRAINING: Start of Training for cluster 1
+INFO 06/07/2022 06:14:16 PM TRAINING:Model for cluster 1 trained
+INFO 06/07/2022 06:14:16 PM TRAINING: Start of Training for cluster 2
+INFO 06/07/2022 06:25:11 PM TRAINING:Model for cluster 2 trained
+INFO 06/07/2022 06:25:11 PM TRAINING: Start of Training for cluster 0
+INFO 06/07/2022 06:58:15 PM TRAINING:Model for cluster 0 trained
+INFO 06/07/2022 06:58:15 PM TRAINING: Start of Training for cluster 3
+INFO 06/07/2022 07:09:20 PM TRAINING:Model for cluster 3 trained
+INFO 06/07/2022 07:09:20 PM TRAINING: Successful End of Training 
+INFO 06/07/2022 07:09:20 PM TRAINING: Training Pipeline Successfully Completed

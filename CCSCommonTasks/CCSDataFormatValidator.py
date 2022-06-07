@@ -79,17 +79,17 @@ class CCSDataFormatValidator:
             with open(self.schema_path, 'r') as f:
                 dic = json.load(f)
 
-            length_year_of_file = dic["LengthOfYear"]
+            length_date_of_file = dic["LengthOfDate"]
             length_time_of_file = dic["LengthOfTime"]
             column_names = dic["ColumnNames"]
             print(column_names)
             column_number = dic["NumberOfColumns"]
 
-            message = f"{self.operation}: Length of year of file = {length_year_of_file}, Length of time of file " \
+            message = f"{self.operation}: Length of year of file = {length_date_of_file}, Length of time of file " \
                       f"= {length_time_of_file}, Number of columns = {column_number}"
             self.ccs_data_format_validator_logging.info(message)
 
-            return length_year_of_file, length_time_of_file,  column_names, column_number
+            return length_date_of_file, length_time_of_file, column_names, column_number
 
         except ValueError:
             message = f"{self.operation}: ValueError:Value not found inside schema_training.json"

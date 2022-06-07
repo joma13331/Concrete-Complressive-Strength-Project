@@ -9,3 +9,5 @@ INFO 05/31/2022 07:25:06 AM PREDICTION: Concrete_Data_31052022_072506.xls transf
 INFO 05/31/2022 07:25:45 AM PREDICTION: Concrete_Data_31052022_072544.xls transformed successfully
 INFO 05/31/2022 07:30:47 AM PREDICTION: Concrete_Data_31052022_073047.xls transformed successfully
 INFO 05/31/2022 07:34:24 AM PREDICTION: Concrete_Data_30052022_094600.xls transformed successfully
+INFO 06/07/2022 05:53:00 PM PREDICTION: Concrete_Data_30052022_094600.xls transformed successfully
+INFO 06/07/2022 07:11:10 PM PREDICTION: Concrete_Data_30052022_094600.xls transformed successfully

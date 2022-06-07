@@ -78,3 +78,11 @@ INFO 05/31/2022 07:31:23 AM PREDICTION: accessed the concrete_compressive_streng
 INFO 05/31/2022 07:34:43 AM PREDICTION: Connection successful with cassandra database
 INFO 05/31/2022 07:34:44 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
 INFO 05/31/2022 07:34:44 AM PREDICTION: The table for Good Data created
+INFO 06/07/2022 05:53:14 PM PREDICTION: Connection successful with cassandra database
+INFO 06/07/2022 05:53:14 PM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 06/07/2022 05:53:15 PM PREDICTION: The table for Good Data created
+INFO 06/07/2022 05:53:15 PM PREDICTION: Any row if existing deleted
+INFO 06/07/2022 05:53:17 PM PREDICTION: Session terminated create table operation
+ERROR 06/07/2022 07:11:50 PM PREDICTION: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+INFO 06/07/2022 07:11:50 PM PREDICTION: The table for Good Data was Not created: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 06/07/2022 07:11:50 PM PREDICTION: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)

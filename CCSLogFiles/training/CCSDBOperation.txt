@@ -39,3 +39,18 @@ ERROR 05/31/2022 07:48:16 AM TRAINING: Error in Database Pipeline: __init__() ta
 ERROR 05/31/2022 07:49:03 AM TRAINING: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
 INFO 05/31/2022 07:49:03 AM TRAINING: The table for Good Data was Not created: __init__() takes exactly 3 positional arguments (1 given)
 ERROR 05/31/2022 07:49:03 AM TRAINING: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)
+INFO 06/07/2022 05:55:29 PM TRAINING: Connection successful with cassandra database
+INFO 06/07/2022 05:55:30 PM TRAINING: accessed the concrete_compressive_strength_internship keyspace
+INFO 06/07/2022 05:55:31 PM TRAINING: The table for Good Data created
+INFO 06/07/2022 05:55:31 PM TRAINING: Any row if existing deleted
+INFO 06/07/2022 05:55:33 PM TRAINING: Session terminated create table operation
+INFO 06/07/2022 05:55:59 PM TRAINING: Connection successful with cassandra database
+INFO 06/07/2022 05:55:59 PM TRAINING: accessed the concrete_compressive_strength_internship keyspace
+INFO 06/07/2022 06:02:47 PM TRAINING: Data in Concrete_Data_07062022_175516.xls uploaded successfully to good_data table
+INFO 06/07/2022 06:02:47 PM TRAINING: Session terminated insert data operation
+ERROR 06/07/2022 06:03:16 PM TRAINING: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+ERROR 06/07/2022 06:03:16 PM TRAINING: Error while downloading good data into csv file: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 06/07/2022 06:03:16 PM TRAINING: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 06/07/2022 07:11:50 PM PREDICTION: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+INFO 06/07/2022 07:11:50 PM PREDICTION: The table for Good Data was Not created: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 06/07/2022 07:11:50 PM PREDICTION: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)

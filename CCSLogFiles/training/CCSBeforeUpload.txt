@@ -8,3 +8,5 @@ INFO 05/31/2022 07:46:56 AM TRAINING: Concrete_Data_31052022_074656.xls transfor
 INFO 05/31/2022 07:47:32 AM TRAINING: Concrete_Data_31052022_074732.xls transformed successfully
 INFO 05/31/2022 07:48:41 AM TRAINING: Concrete_Data_31052022_074840.xls transformed successfully
 INFO 05/31/2022 07:56:51 AM TRAINING: Concrete_Data_31052022_075650.xls transformed successfully
+INFO 06/07/2022 05:55:16 PM TRAINING: Concrete_Data_07062022_175516.xls transformed successfully
+INFO 06/07/2022 07:11:10 PM PREDICTION: Concrete_Data_30052022_094600.xls transformed successfully
