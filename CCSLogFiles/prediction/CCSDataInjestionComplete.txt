@@ -1,0 +1,90 @@
+INFO 05/31/2022 07:00:24 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:00:24 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:00:24 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:00:24 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:00:24 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+ERROR 05/31/2022 07:00:24 AM TRAINING: Error During Injestion and Validation PhaseNo objects to concatenate
+INFO 05/31/2022 07:01:26 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:01:26 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:01:26 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:01:26 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:01:26 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+ERROR 05/31/2022 07:01:26 AM TRAINING: Error During Injestion and Validation PhaseNo objects to concatenate
+INFO 05/31/2022 07:02:28 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:02:28 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:02:28 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:02:28 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:02:28 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+ERROR 05/31/2022 07:02:28 AM TRAINING: Error During Injestion and Validation PhaseNo objects to concatenate
+INFO 05/31/2022 07:06:23 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:06:23 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:06:23 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:06:23 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:06:23 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+ERROR 05/31/2022 07:06:23 AM TRAINING: Error During Injestion and Validation PhaseNo objects to concatenate
+INFO 05/31/2022 07:08:11 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:08:11 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:08:11 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:08:12 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:08:12 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 05/31/2022 07:08:12 AM TRAINING: End of Injestion and Validation
+INFO 05/31/2022 07:10:33 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:10:33 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:10:33 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:10:33 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:10:33 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 05/31/2022 07:10:33 AM TRAINING: End of Injestion and Validation
+INFO 05/31/2022 07:13:30 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:13:30 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:13:30 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:13:30 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:13:30 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 05/31/2022 07:13:30 AM TRAINING: End of Injestion and Validation
+INFO 05/31/2022 07:14:31 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:14:31 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:14:31 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:14:31 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:14:31 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 05/31/2022 07:14:31 AM TRAINING: End of Injestion and Validation
+INFO 05/31/2022 07:19:50 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:19:51 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:19:51 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:19:51 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:19:51 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 05/31/2022 07:19:51 AM TRAINING: End of Injestion and Validation
+INFO 05/31/2022 07:23:56 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:23:57 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:23:57 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:23:57 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:23:57 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 05/31/2022 07:23:57 AM TRAINING: End of Injestion and Validation
+INFO 05/31/2022 07:24:17 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:24:17 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:24:17 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:24:17 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:24:17 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 05/31/2022 07:24:17 AM TRAINING: End of Injestion and Validation
+INFO 05/31/2022 07:25:06 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:25:06 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:25:06 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:25:06 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:25:06 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 05/31/2022 07:25:06 AM TRAINING: End of Injestion and Validation
+INFO 05/31/2022 07:25:44 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:25:44 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:25:44 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:25:45 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:25:45 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 05/31/2022 07:25:45 AM TRAINING: End of Injestion and Validation
+INFO 05/31/2022 07:30:47 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:30:47 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:30:47 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:30:47 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:30:47 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 05/31/2022 07:30:47 AM TRAINING: End of Injestion and Validation
+INFO 05/31/2022 07:34:24 AM TRAINING: Start of Injestion and Validation
+INFO 05/31/2022 07:34:24 AM TRAINING: Raw Data Validation complete
+INFO 05/31/2022 07:34:24 AM TRAINING: Start of Data Transformation
+INFO 05/31/2022 07:34:24 AM TRAINING: Data Transformation Complete
+INFO 05/31/2022 07:34:24 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 05/31/2022 07:34:24 AM TRAINING: End of Injestion and Validation

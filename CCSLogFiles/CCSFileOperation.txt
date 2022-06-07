@@ -1,0 +1,96 @@
+INFO 05/31/2022 07:10:34 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:10:34 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:13:30 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:13:30 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:14:31 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:14:31 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:24:17 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:24:17 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:24:17 AM model at CCSModels/cluster.pickle loaded successfully
+INFO 05/31/2022 07:24:17 AM model at CCSModels/cluster.pickle loaded successfully
+INFO 05/31/2022 07:24:17 AM file: rfr_cluster_4.pickle selected for prediction
+INFO 05/31/2022 07:24:17 AM file: rfr_cluster_4.pickle selected for prediction
+INFO 05/31/2022 07:24:17 AM model at CCSModels/CCSMLModels/rfr_cluster_4.pickle loaded successfully
+INFO 05/31/2022 07:24:17 AM model at CCSModels/CCSMLModels/rfr_cluster_4.pickle loaded successfully
+INFO 05/31/2022 07:25:06 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:25:06 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:25:06 AM model at CCSModels/cluster.pickle loaded successfully
+INFO 05/31/2022 07:25:06 AM model at CCSModels/cluster.pickle loaded successfully
+INFO 05/31/2022 07:25:06 AM file: rfr_cluster_4.pickle selected for prediction
+INFO 05/31/2022 07:25:06 AM file: rfr_cluster_4.pickle selected for prediction
+INFO 05/31/2022 07:25:06 AM model at CCSModels/CCSMLModels/rfr_cluster_4.pickle loaded successfully
+INFO 05/31/2022 07:25:06 AM model at CCSModels/CCSMLModels/rfr_cluster_4.pickle loaded successfully
+INFO 05/31/2022 07:25:45 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:25:45 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:25:45 AM model at CCSModels/cluster.pickle loaded successfully
+INFO 05/31/2022 07:25:45 AM model at CCSModels/cluster.pickle loaded successfully
+INFO 05/31/2022 07:25:45 AM file: rfr_cluster_4.pickle selected for prediction
+INFO 05/31/2022 07:25:45 AM file: rfr_cluster_4.pickle selected for prediction
+INFO 05/31/2022 07:25:45 AM model at CCSModels/CCSMLModels/rfr_cluster_4.pickle loaded successfully
+INFO 05/31/2022 07:25:45 AM model at CCSModels/CCSMLModels/rfr_cluster_4.pickle loaded successfully
+INFO 05/31/2022 07:30:47 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:30:47 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:30:47 AM model at CCSModels/cluster.pickle loaded successfully
+INFO 05/31/2022 07:30:47 AM model at CCSModels/cluster.pickle loaded successfully
+INFO 05/31/2022 07:30:47 AM file: rfr_cluster_4.pickle selected for prediction
+INFO 05/31/2022 07:30:47 AM file: rfr_cluster_4.pickle selected for prediction
+INFO 05/31/2022 07:30:47 AM model at CCSModels/CCSMLModels/rfr_cluster_4.pickle loaded successfully
+INFO 05/31/2022 07:30:47 AM model at CCSModels/CCSMLModels/rfr_cluster_4.pickle loaded successfully
+INFO 05/31/2022 07:34:24 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:34:24 AM model at CCSModels/scalar.pickle loaded successfully
+INFO 05/31/2022 07:34:24 AM model at CCSModels/cluster.pickle loaded successfully
+INFO 05/31/2022 07:34:24 AM model at CCSModels/cluster.pickle loaded successfully
+INFO 05/31/2022 07:34:24 AM file: rfr_cluster_4.pickle selected for prediction
+INFO 05/31/2022 07:34:24 AM file: rfr_cluster_4.pickle selected for prediction
+INFO 05/31/2022 07:34:24 AM model at CCSModels/CCSMLModels/rfr_cluster_4.pickle loaded successfully
+INFO 05/31/2022 07:34:24 AM model at CCSModels/CCSMLModels/rfr_cluster_4.pickle loaded successfully
+INFO 05/31/2022 07:35:05 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:35:05 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:35:07 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:35:07 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:35:07 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:35:49 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:35:49 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:35:50 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:35:50 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:35:50 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:42:36 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:42:36 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:42:38 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:42:38 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:42:38 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:43:59 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:43:59 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:44:00 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:44:00 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:44:00 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:44:33 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:44:33 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:44:35 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:44:35 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:44:35 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:46:22 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:46:22 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:46:23 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:46:23 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:46:23 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:46:56 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:46:56 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:46:58 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:46:58 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:46:58 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:47:32 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:47:32 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:47:34 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:47:34 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:47:34 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:48:41 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:48:41 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:48:42 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:48:42 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:48:42 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:56:51 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:56:51 AM scalar.pickle has been save in CCSModels/
+INFO 05/31/2022 07:56:52 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:56:52 AM cluster.pickle has been save in CCSModels/
+INFO 05/31/2022 07:56:52 AM cluster.pickle has been save in CCSModels/

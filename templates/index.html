@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Concrete Compressive Strength Project</title>
+        <link rel="stylesheet" href="../static/css/main.css">
+
+    </head>
+
+    <body>
+        <div id="container">
+            
+            <h1 id="project_name">
+                Concrete Compressive Strength
+            </h1>
+
+            <p id="logo"><img src={{image_url}} alt="iNeuron Logo" width=200px></p>
+
+            <div id="description">
+                <p>
+                    This Web Application implements a Machine Learning Solution to determine the Concrete Compressive Strength in MPa.<br>
+                    Compressive strength of concrete is the Strength of hardened concrete measured by the compression test. The compression strength of concrete is a measure of the concrete's ability to resist loads which tend to compress it.<br>
+                    In order to determine this the following details are required:
+                </p>
+
+                <ol>
+                    <li>Cement(Quantity in kg/m3 mixture): A cement is a binder, a substance used for construction that sets, hardens, and adheres to other materials to bind them together.</li>
+                    <li>Blast Furnace Slag(Quantity in kg/m3 mixture): Blast furnace slag is a calcium-silicate-based product removed from the top of molten iron during its extraction from ore in a blast furnace. Usually, it is rapidly cooled to a glassy state and ground for use in construction materials</li>
+                    <li>Fly Ash(Quantity in kg/m3 mixture): Fly ash is a byproduct from burning pulverized coal in electric power generating plants. All fly ashes exhibit cementitious properties to varying degrees depending on the chemical and physical properties of both the fly ash and cement.</li>
+                    <li>Water(Quantity in kg/m3 mixture): The amount of water in concrete controls many fresh and hardened properties in concrete including workability, compressive strengths, permeability and watertightness, durability and weathering, drying shrinkage and potential for cracking.</li>
+                    <li>Superplasticizer(Quantity in kg/m3 mixture) : Superplasticizers (SPs) are also known as high- range water reducers that are additive used in making high strength concrete. Plasticizers are chemical compounds that enable the production of concrete with approximately 15% less water content.</li>
+                    <li>Coarse Aggregate(Quantity in kg/m3 mixture): Coarse aggregates are irregular broken stones or naturally occurring round gravels that are used to make concrete, coarse aggregates for structural concrete consist of broken stones of hard rock like granite and limestone (angular aggregates) or river gravels (round aggregates).</li>
+                    <li>Fine Aggregate(Quantity in kg/m3 mixture): Fine aggregates are basically natural sand particles from the land through the mining process, the fine aggregates consist of natural sand or any crushed stone particles that are ¼” or smaller.</li>
+                    <li>Age(in Days) : Aging sets, hardens, helps in gaining strength and causes reduced permeability.</li>
+                </ol>
+
+            </div>
+
+            <div id="predict">
+                <h2>Predict</h2>
+                <form action="/prediction" method="post" enctype="multipart/form-data">
+                    <input type="file" name="dataset" accept="application/vnd.ms-excel">
+                    <p><input type="submit" value="Predict"> <input type="reset"></p>
+                    <p>To get a prediction on Concrete Compressive Strength upload a .xls (Excel) file in the following format</p>
+                    <ul>
+                        <li>Filename in format "Concrete_Data_{DDMMYYYY}_{HHMMSS}data.xlsx"<br> Where "DDMMYYYY" represents the date and "HHMMSS" represents the time.</li>
+                        <li>Column Names in the first row in following format:</li>
+                        <li>
+                            <ol>
+                                <li>First Column Heading "Cement (component 1)(kg in a m^3 mixture)"</li>
+                                <li>Second Column Heading "Blast Furnace Slag (component 2)(kg in a m^3 mixture)"</li>
+                                <li>Third Column Heading "Fly Ash (component 3)(kg in a m^3 mixture)"(</li>
+                                <li>Fourth Column Heading "Water  (component 4)(kg in a m^3 mixture)"</li>
+                                <li>Fifth Column Heading "Superplasticizer (component 5)(kg in a m^3 mixture)"</li>
+                                <li>Sixth Column Heading "Coarse Aggregate  (component 6)(kg in a m^3 mixture)"</li>
+                                <li>Seventh Column Heading "Fine Aggregate (component 7)(kg in a m^3 mixture)"</li>
+                                <li>Eight Column Heading "Age (day)"</li>
+                            </ol>
+                        </li>
+                        <li> The data to be predicted on should start from 2nd row</li>
+                    </ul>
+
+                </form>
+
+                <h2>Prediction Logs</h2>
+                <form action="/logs" method="post">
+                    <p>Select the logs you want to see.</p>
+                    <ul>
+                        <li><input type="radio" name="log_type" value="prediction/CCSBeforeUpload.txt">CCSBeforeUploadPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSDataFormat.txt">CCSDataFormatPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSDataInjestionComplete.txt">CCSDataInjestionCompPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSDataLoader.txt">CCSDataLoaderPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSDBOperation.txt">CCSDBOperationPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSEda.txt">CCSPredEda</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSFeatureEngineering.txt">CCSFeatureEngineeringPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSFeatureSelection.txt">CCSFeatureSelectionPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSPredictionPipeline.txt">CCSPredictionPipeline</li>
+                    </ul>
+                    <p><input type="submit" value="Check Logs"></p>
+
+                </form>
+                
+            </div>
+
+            <div id="train">
+                <h2>Train</h2>
+                <form action="/train" method="post" enctype="multipart/form-data">
+                    <input type="file" name="dataset" accept="application/vnd.ms-excel">
+                    <p><input type="submit" value="Train"> <input type="reset"></p>
+                    <p>To train a model to obtain Concrete Compressive Strength upload a .xls (Excel) file in the following format</p>
+                    <ul>
+                        <li>Filename in format "Concrete_Data_{DDMMYYYY}_{HHMMSS}data.xlsx"<br> Where "DDMMYYYY" represents the date and "HHMMSS" represents the time.</li>
+                        <li>Column Names in the first row in following format:</li>
+                        <li>
+                            <ol>
+                                <li>First Column Heading "Cement (component 1)(kg in a m^3 mixture)"</li>
+                                <li>Second Column Heading "Blast Furnace Slag (component 2)(kg in a m^3 mixture)"</li>
+                                <li>Third Column Heading "Fly Ash (component 3)(kg in a m^3 mixture)"(</li>
+                                <li>Fourth Column Heading "Water  (component 4)(kg in a m^3 mixture)"</li>
+                                <li>Fifth Column Heading "Superplasticizer (component 5)(kg in a m^3 mixture)"</li>
+                                <li>Sixth Column Heading "Coarse Aggregate  (component 6)(kg in a m^3 mixture)"</li>
+                                <li>Seventh Column Heading "Fine Aggregate (component 7)(kg in a m^3 mixture)"</li>
+                                <li>Eight Column Heading "Age (day)"</li>
+                                <li>Ninth Column Heading "Concrete compressive strength(MPa, megapascals)"</li>
+                            </ol>
+                        </li>
+                        <li> The data to be trained on should start from 2nd row</li>
+                    </ul>
+
+                </form>
+
+                <h2>Training Logs</h2>
+                <form action="/logs" method="post">
+                    <p>Select the logs you want to see.</p>
+                    <ul>
+                        <li><input type="radio" name="log_type" value="training/CCSBeforeUpload.txt">CCSBeforeUploadTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSClustering.txt">CCSClusteringTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSDataFormat.txt">CCSDataFormatTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSDataInjestionComplete.txt">CCSDataInjestionCompTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSDataLoader.txt">CCSDataLoaderTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSDBOperation.txt">CCSDBOperationTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSEda.txt">CCSEdaTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSFeatureEngineering.txt">CCSFeatureEngineeringTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSFeatureSelection.txt">CCSFeatureSelectionTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSTrainingPipeline.txt">CCSTrainingPipeline</li>
+                        <li><input type="radio" name="log_type" value="training/CCSModelFinder.txt">CCSModelFinder</li>
+                    </ul>
+                    <p><input type="submit" value="Check Logs"></p>
+
+                </form>
+                <p>Warning: Training Takes a lot of time</p>
+            </div>
+        </div>
+
+    </body>
+</html>

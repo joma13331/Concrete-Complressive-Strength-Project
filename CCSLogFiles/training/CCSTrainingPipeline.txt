@@ -1,0 +1,151 @@
+INFO 05/31/2022 07:35:05 AM TRAINING: Start of Training Pipeline
+INFO 05/31/2022 07:35:05 AM TRAINING: Getting Validated Data
+INFO 05/31/2022 07:35:05 AM TRAINING: Validated Data Obtained
+INFO 05/31/2022 07:35:05 AM TRAINING: Data Preprocessing started
+INFO 05/31/2022 07:35:05 AM TRAINING: Removed the 'ID' column
+INFO 05/31/2022 07:35:05 AM TRAINING: Separated the features and labels
+INFO 05/31/2022 07:35:05 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 05/31/2022 07:35:05 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 05/31/2022 07:35:05 AM TRAINING: Converted all possible continuous columns to normal
+INFO 05/31/2022 07:35:05 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 05/31/2022 07:35:05 AM TRAINING: All the features have been scaled
+INFO 05/31/2022 07:35:05 AM TRAINING: Data Preprocessing completed
+INFO 05/31/2022 07:35:05 AM TRAINING: Data Clustering Started
+INFO 05/31/2022 07:35:07 AM TRAINING: Data Clustering Completed
+INFO 05/31/2022 07:35:07 AM TRAINING: Start of Training for cluster 4
+INFO 05/31/2022 07:35:49 AM TRAINING: Start of Training Pipeline
+INFO 05/31/2022 07:35:49 AM TRAINING: Getting Validated Data
+INFO 05/31/2022 07:35:49 AM TRAINING: Validated Data Obtained
+INFO 05/31/2022 07:35:49 AM TRAINING: Data Preprocessing started
+INFO 05/31/2022 07:35:49 AM TRAINING: Removed the 'ID' column
+INFO 05/31/2022 07:35:49 AM TRAINING: Separated the features and labels
+INFO 05/31/2022 07:35:49 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 05/31/2022 07:35:49 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 05/31/2022 07:35:49 AM TRAINING: Converted all possible continuous columns to normal
+INFO 05/31/2022 07:35:49 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 05/31/2022 07:35:49 AM TRAINING: All the features have been scaled
+INFO 05/31/2022 07:35:49 AM TRAINING: Data Preprocessing completed
+INFO 05/31/2022 07:35:49 AM TRAINING: Data Clustering Started
+INFO 05/31/2022 07:35:50 AM TRAINING: Data Clustering Completed
+INFO 05/31/2022 07:35:50 AM TRAINING: Start of Training for cluster 4
+INFO 05/31/2022 07:42:36 AM TRAINING: Start of Training Pipeline
+INFO 05/31/2022 07:42:36 AM TRAINING: Getting Validated Data
+INFO 05/31/2022 07:42:36 AM TRAINING: Validated Data Obtained
+INFO 05/31/2022 07:42:36 AM TRAINING: Data Preprocessing started
+INFO 05/31/2022 07:42:36 AM TRAINING: Removed the 'ID' column
+INFO 05/31/2022 07:42:36 AM TRAINING: Separated the features and labels
+INFO 05/31/2022 07:42:36 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 05/31/2022 07:42:36 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 05/31/2022 07:42:36 AM TRAINING: Converted all possible continuous columns to normal
+INFO 05/31/2022 07:42:36 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 05/31/2022 07:42:36 AM TRAINING: All the features have been scaled
+INFO 05/31/2022 07:42:36 AM TRAINING: Data Preprocessing completed
+INFO 05/31/2022 07:42:36 AM TRAINING: Data Clustering Started
+INFO 05/31/2022 07:42:38 AM TRAINING: Data Clustering Completed
+INFO 05/31/2022 07:42:38 AM TRAINING: Start of Training for cluster 4
+INFO 05/31/2022 07:43:58 AM TRAINING: Start of Training Pipeline
+INFO 05/31/2022 07:43:58 AM TRAINING: Getting Validated Data
+INFO 05/31/2022 07:43:58 AM TRAINING: Validated Data Obtained
+INFO 05/31/2022 07:43:58 AM TRAINING: Data Preprocessing started
+INFO 05/31/2022 07:43:58 AM TRAINING: Removed the 'ID' column
+INFO 05/31/2022 07:43:58 AM TRAINING: Separated the features and labels
+INFO 05/31/2022 07:43:58 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 05/31/2022 07:43:58 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 05/31/2022 07:43:59 AM TRAINING: Converted all possible continuous columns to normal
+INFO 05/31/2022 07:43:59 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 05/31/2022 07:43:59 AM TRAINING: All the features have been scaled
+INFO 05/31/2022 07:43:59 AM TRAINING: Data Preprocessing completed
+INFO 05/31/2022 07:43:59 AM TRAINING: Data Clustering Started
+INFO 05/31/2022 07:44:00 AM TRAINING: Data Clustering Completed
+INFO 05/31/2022 07:44:00 AM TRAINING: Start of Training for cluster 4
+INFO 05/31/2022 07:44:33 AM TRAINING: Start of Training Pipeline
+INFO 05/31/2022 07:44:33 AM TRAINING: Getting Validated Data
+INFO 05/31/2022 07:44:33 AM TRAINING: Validated Data Obtained
+INFO 05/31/2022 07:44:33 AM TRAINING: Data Preprocessing started
+INFO 05/31/2022 07:44:33 AM TRAINING: Removed the 'ID' column
+INFO 05/31/2022 07:44:33 AM TRAINING: Separated the features and labels
+INFO 05/31/2022 07:44:33 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 05/31/2022 07:44:33 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 05/31/2022 07:44:33 AM TRAINING: Converted all possible continuous columns to normal
+INFO 05/31/2022 07:44:33 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 05/31/2022 07:44:33 AM TRAINING: All the features have been scaled
+INFO 05/31/2022 07:44:33 AM TRAINING: Data Preprocessing completed
+INFO 05/31/2022 07:44:33 AM TRAINING: Data Clustering Started
+INFO 05/31/2022 07:44:35 AM TRAINING: Data Clustering Completed
+INFO 05/31/2022 07:44:35 AM TRAINING: Start of Training for cluster 4
+INFO 05/31/2022 07:46:22 AM TRAINING: Start of Training Pipeline
+INFO 05/31/2022 07:46:22 AM TRAINING: Getting Validated Data
+INFO 05/31/2022 07:46:22 AM TRAINING: Validated Data Obtained
+INFO 05/31/2022 07:46:22 AM TRAINING: Data Preprocessing started
+INFO 05/31/2022 07:46:22 AM TRAINING: Removed the 'ID' column
+INFO 05/31/2022 07:46:22 AM TRAINING: Separated the features and labels
+INFO 05/31/2022 07:46:22 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 05/31/2022 07:46:22 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 05/31/2022 07:46:22 AM TRAINING: Converted all possible continuous columns to normal
+INFO 05/31/2022 07:46:22 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 05/31/2022 07:46:22 AM TRAINING: All the features have been scaled
+INFO 05/31/2022 07:46:22 AM TRAINING: Data Preprocessing completed
+INFO 05/31/2022 07:46:22 AM TRAINING: Data Clustering Started
+INFO 05/31/2022 07:46:23 AM TRAINING: Data Clustering Completed
+INFO 05/31/2022 07:46:23 AM TRAINING: Start of Training for cluster 4
+INFO 05/31/2022 07:46:56 AM TRAINING: Start of Training Pipeline
+INFO 05/31/2022 07:46:56 AM TRAINING: Getting Validated Data
+INFO 05/31/2022 07:46:56 AM TRAINING: Validated Data Obtained
+INFO 05/31/2022 07:46:56 AM TRAINING: Data Preprocessing started
+INFO 05/31/2022 07:46:56 AM TRAINING: Removed the 'ID' column
+INFO 05/31/2022 07:46:56 AM TRAINING: Separated the features and labels
+INFO 05/31/2022 07:46:56 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 05/31/2022 07:46:56 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 05/31/2022 07:46:56 AM TRAINING: Converted all possible continuous columns to normal
+INFO 05/31/2022 07:46:56 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 05/31/2022 07:46:56 AM TRAINING: All the features have been scaled
+INFO 05/31/2022 07:46:56 AM TRAINING: Data Preprocessing completed
+INFO 05/31/2022 07:46:56 AM TRAINING: Data Clustering Started
+INFO 05/31/2022 07:46:58 AM TRAINING: Data Clustering Completed
+INFO 05/31/2022 07:46:58 AM TRAINING: Start of Training for cluster 4
+INFO 05/31/2022 07:47:32 AM TRAINING: Start of Training Pipeline
+INFO 05/31/2022 07:47:32 AM TRAINING: Getting Validated Data
+INFO 05/31/2022 07:47:32 AM TRAINING: Validated Data Obtained
+INFO 05/31/2022 07:47:32 AM TRAINING: Data Preprocessing started
+INFO 05/31/2022 07:47:32 AM TRAINING: Removed the 'ID' column
+INFO 05/31/2022 07:47:32 AM TRAINING: Separated the features and labels
+INFO 05/31/2022 07:47:32 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 05/31/2022 07:47:32 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 05/31/2022 07:47:32 AM TRAINING: Converted all possible continuous columns to normal
+INFO 05/31/2022 07:47:32 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 05/31/2022 07:47:32 AM TRAINING: All the features have been scaled
+INFO 05/31/2022 07:47:32 AM TRAINING: Data Preprocessing completed
+INFO 05/31/2022 07:47:32 AM TRAINING: Data Clustering Started
+INFO 05/31/2022 07:47:34 AM TRAINING: Data Clustering Completed
+INFO 05/31/2022 07:47:34 AM TRAINING: Start of Training for cluster 4
+INFO 05/31/2022 07:48:41 AM TRAINING: Start of Training Pipeline
+INFO 05/31/2022 07:48:41 AM TRAINING: Getting Validated Data
+INFO 05/31/2022 07:48:41 AM TRAINING: Validated Data Obtained
+INFO 05/31/2022 07:48:41 AM TRAINING: Data Preprocessing started
+INFO 05/31/2022 07:48:41 AM TRAINING: Removed the 'ID' column
+INFO 05/31/2022 07:48:41 AM TRAINING: Separated the features and labels
+INFO 05/31/2022 07:48:41 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 05/31/2022 07:48:41 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 05/31/2022 07:48:41 AM TRAINING: Converted all possible continuous columns to normal
+INFO 05/31/2022 07:48:41 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 05/31/2022 07:48:41 AM TRAINING: All the features have been scaled
+INFO 05/31/2022 07:48:41 AM TRAINING: Data Preprocessing completed
+INFO 05/31/2022 07:48:41 AM TRAINING: Data Clustering Started
+INFO 05/31/2022 07:48:42 AM TRAINING: Data Clustering Completed
+INFO 05/31/2022 07:48:42 AM TRAINING: Start of Training for cluster 4
+INFO 05/31/2022 07:56:51 AM TRAINING: Start of Training Pipeline
+INFO 05/31/2022 07:56:51 AM TRAINING: Getting Validated Data
+INFO 05/31/2022 07:56:51 AM TRAINING: Validated Data Obtained
+INFO 05/31/2022 07:56:51 AM TRAINING: Data Preprocessing started
+INFO 05/31/2022 07:56:51 AM TRAINING: Removed the 'ID' column
+INFO 05/31/2022 07:56:51 AM TRAINING: Separated the features and labels
+INFO 05/31/2022 07:56:51 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 05/31/2022 07:56:51 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 05/31/2022 07:56:51 AM TRAINING: Converted all possible continuous columns to normal
+INFO 05/31/2022 07:56:51 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 05/31/2022 07:56:51 AM TRAINING: All the features have been scaled
+INFO 05/31/2022 07:56:51 AM TRAINING: Data Preprocessing completed
+INFO 05/31/2022 07:56:51 AM TRAINING: Data Clustering Started
+INFO 05/31/2022 07:56:52 AM TRAINING: Data Clustering Completed
+INFO 05/31/2022 07:56:52 AM TRAINING: Start of Training for cluster 4
+INFO 05/31/2022 07:56:57 AM TRAINING: There was an ERROR in obtaining best model: A task has failed to un-serialize. Please ensure that the arguments of the function are all picklable.

@@ -1,0 +1,20 @@
+INFO 05/31/2022 07:35:07 AM TRAINING The optimum cluster value obtained is 5 with wcss=4135.72003609376
+INFO 05/31/2022 07:35:07 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 05/31/2022 07:35:50 AM TRAINING The optimum cluster value obtained is 5 with wcss=4135.72003609376
+INFO 05/31/2022 07:35:50 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 05/31/2022 07:42:38 AM TRAINING The optimum cluster value obtained is 5 with wcss=4135.72003609376
+INFO 05/31/2022 07:42:38 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 05/31/2022 07:44:00 AM TRAINING The optimum cluster value obtained is 5 with wcss=4135.72003609376
+INFO 05/31/2022 07:44:00 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 05/31/2022 07:44:35 AM TRAINING The optimum cluster value obtained is 5 with wcss=4135.72003609376
+INFO 05/31/2022 07:44:35 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 05/31/2022 07:46:23 AM TRAINING The optimum cluster value obtained is 5 with wcss=4135.72003609376
+INFO 05/31/2022 07:46:23 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 05/31/2022 07:46:58 AM TRAINING The optimum cluster value obtained is 5 with wcss=4135.72003609376
+INFO 05/31/2022 07:46:58 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 05/31/2022 07:47:33 AM TRAINING The optimum cluster value obtained is 5 with wcss=4135.72003609376
+INFO 05/31/2022 07:47:34 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 05/31/2022 07:48:42 AM TRAINING The optimum cluster value obtained is 5 with wcss=4135.72003609376
+INFO 05/31/2022 07:48:42 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 05/31/2022 07:56:52 AM TRAINING The optimum cluster value obtained is 5 with wcss=4135.7200360937595
+INFO 05/31/2022 07:56:52 AM TRAINING: EEClustering has been done, with cluster column added to dataset

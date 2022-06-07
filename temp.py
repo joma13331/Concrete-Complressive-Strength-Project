@@ -1,0 +1,4 @@
+from CCSCommonTasks.CCSDataInjestionComplete import CCSDataInjestionComplete
+
+obj_injestion = CCSDataInjestionComplete(is_training=False, data_dir="CCSUploadedFiles")
+obj_injestion.ccs_data_injestion_complete()

@@ -1,0 +1,41 @@
+ERROR 05/31/2022 07:35:29 AM TRAINING: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+INFO 05/31/2022 07:35:29 AM TRAINING: The table for Good Data was Not created: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 05/31/2022 07:35:29 AM TRAINING: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)
+INFO 05/31/2022 07:36:07 AM TRAINING: Connection successful with cassandra database
+INFO 05/31/2022 07:36:07 AM TRAINING: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:36:08 AM TRAINING: The table for Good Data created
+INFO 05/31/2022 07:36:09 AM TRAINING: Any row if existing deleted
+INFO 05/31/2022 07:36:09 AM TRAINING: Session terminated create table operation
+INFO 05/31/2022 07:36:23 AM TRAINING: Connection successful with cassandra database
+INFO 05/31/2022 07:36:24 AM TRAINING: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:43:02 AM TRAINING: Connection successful with cassandra database
+INFO 05/31/2022 07:43:03 AM TRAINING: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:43:03 AM TRAINING: The table for Good Data created
+INFO 05/31/2022 07:43:06 AM TRAINING: Any row if existing deleted
+INFO 05/31/2022 07:43:06 AM TRAINING: Session terminated create table operation
+INFO 05/31/2022 07:43:27 AM TRAINING: Connection successful with cassandra database
+INFO 05/31/2022 07:43:27 AM TRAINING: accessed the concrete_compressive_strength_internship keyspace
+ERROR 05/31/2022 07:44:21 AM TRAINING: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+INFO 05/31/2022 07:44:21 AM TRAINING: The table for Good Data was Not created: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 05/31/2022 07:44:22 AM TRAINING: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)
+INFO 05/31/2022 07:44:48 AM TRAINING: Connection successful with cassandra database
+INFO 05/31/2022 07:44:48 AM TRAINING: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:44:49 AM TRAINING: The table for Good Data created
+INFO 05/31/2022 07:44:50 AM TRAINING: Any row if existing deleted
+INFO 05/31/2022 07:44:51 AM TRAINING: Session terminated create table operation
+INFO 05/31/2022 07:45:12 AM TRAINING: Connection successful with cassandra database
+INFO 05/31/2022 07:45:13 AM TRAINING: accessed the concrete_compressive_strength_internship keyspace
+ERROR 05/31/2022 07:46:48 AM TRAINING: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+INFO 05/31/2022 07:46:48 AM TRAINING: The table for Good Data was Not created: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 05/31/2022 07:46:48 AM TRAINING: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)
+INFO 05/31/2022 07:47:46 AM TRAINING: Connection successful with cassandra database
+INFO 05/31/2022 07:47:47 AM TRAINING: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:47:47 AM TRAINING: The table for Good Data created
+INFO 05/31/2022 07:47:48 AM TRAINING: Any row if existing deleted
+INFO 05/31/2022 07:47:50 AM TRAINING: Session terminated create table operation
+ERROR 05/31/2022 07:48:16 AM TRAINING: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+ERROR 05/31/2022 07:48:16 AM TRAINING: Error while uploading data to good_data table: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 05/31/2022 07:48:16 AM TRAINING: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 05/31/2022 07:49:03 AM TRAINING: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+INFO 05/31/2022 07:49:03 AM TRAINING: The table for Good Data was Not created: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 05/31/2022 07:49:03 AM TRAINING: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)

@@ -1,0 +1,10 @@
+INFO 05/31/2022 07:35:05 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 05/31/2022 07:35:49 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 05/31/2022 07:42:36 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 05/31/2022 07:43:58 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 05/31/2022 07:44:33 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 05/31/2022 07:46:22 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 05/31/2022 07:46:56 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 05/31/2022 07:47:32 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 05/31/2022 07:48:41 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 05/31/2022 07:56:51 AM TRAINING: The data is loaded successfully as a pandas dataframe

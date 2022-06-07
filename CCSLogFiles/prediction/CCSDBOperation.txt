@@ -1,0 +1,80 @@
+INFO 05/31/2022 07:00:41 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:00:42 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:00:42 AM PREDICTION: The table for Good Data created
+INFO 05/31/2022 07:00:43 AM PREDICTION: Any row if existing deleted
+INFO 05/31/2022 07:00:43 AM PREDICTION: Session terminated create table operation
+INFO 05/31/2022 07:00:57 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:00:58 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:01:00 AM PREDICTION: Session terminated insert data operation
+INFO 05/31/2022 07:01:12 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:01:13 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:01:13 AM PREDICTION: All data from good data table saved to prediction_file.csv
+INFO 05/31/2022 07:01:15 AM Session terminated after downloading good data into csv file from tablegood_prediction_data
+INFO 05/31/2022 07:01:39 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:01:40 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:01:40 AM PREDICTION: The table for Good Data created
+INFO 05/31/2022 07:01:40 AM PREDICTION: Any row if existing deleted
+INFO 05/31/2022 07:01:42 AM PREDICTION: Session terminated create table operation
+INFO 05/31/2022 07:01:55 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:01:56 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:01:58 AM PREDICTION: Session terminated insert data operation
+INFO 05/31/2022 07:02:13 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:02:13 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:02:14 AM PREDICTION: All data from good data table saved to prediction_file.csv
+INFO 05/31/2022 07:02:16 AM Session terminated after downloading good data into csv file from tablegood_prediction_data
+INFO 05/31/2022 07:02:41 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:02:42 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:02:42 AM PREDICTION: The table for Good Data created
+INFO 05/31/2022 07:02:43 AM PREDICTION: Any row if existing deleted
+INFO 05/31/2022 07:02:45 AM PREDICTION: Session terminated create table operation
+INFO 05/31/2022 07:02:59 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:03:00 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:03:02 AM PREDICTION: Session terminated insert data operation
+INFO 05/31/2022 07:03:17 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:03:17 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:03:18 AM PREDICTION: All data from good data table saved to prediction_file.csv
+INFO 05/31/2022 07:03:20 AM Session terminated after downloading good data into csv file from tablegood_prediction_data
+INFO 05/31/2022 07:06:36 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:06:37 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:06:37 AM PREDICTION: The table for Good Data created
+INFO 05/31/2022 07:06:37 AM PREDICTION: Any row if existing deleted
+INFO 05/31/2022 07:06:39 AM PREDICTION: Session terminated create table operation
+INFO 05/31/2022 07:06:57 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:06:57 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:06:57 AM PREDICTION: Session terminated insert data operation
+INFO 05/31/2022 07:08:25 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:08:25 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:08:26 AM PREDICTION: The table for Good Data created
+INFO 05/31/2022 07:08:26 AM PREDICTION: Any row if existing deleted
+INFO 05/31/2022 07:08:28 AM PREDICTION: Session terminated create table operation
+INFO 05/31/2022 07:08:41 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:08:42 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:10:47 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:10:47 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:10:48 AM PREDICTION: The table for Good Data created
+INFO 05/31/2022 07:10:49 AM PREDICTION: Any row if existing deleted
+INFO 05/31/2022 07:10:50 AM PREDICTION: Session terminated create table operation
+INFO 05/31/2022 07:11:04 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:11:05 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:20:06 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:20:06 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:20:07 AM PREDICTION: The table for Good Data created
+INFO 05/31/2022 07:20:08 AM PREDICTION: Any row if existing deleted
+INFO 05/31/2022 07:20:09 AM PREDICTION: Session terminated create table operation
+INFO 05/31/2022 07:20:25 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:20:25 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:25:31 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:25:31 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:25:32 AM PREDICTION: The table for Good Data created
+INFO 05/31/2022 07:25:33 AM PREDICTION: Any row if existing deleted
+INFO 05/31/2022 07:25:34 AM PREDICTION: Session terminated create table operation
+INFO 05/31/2022 07:31:06 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:31:07 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:31:07 AM PREDICTION: The table for Good Data created
+INFO 05/31/2022 07:31:08 AM PREDICTION: Any row if existing deleted
+INFO 05/31/2022 07:31:09 AM PREDICTION: Session terminated create table operation
+INFO 05/31/2022 07:31:22 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:31:23 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:34:43 AM PREDICTION: Connection successful with cassandra database
+INFO 05/31/2022 07:34:44 AM PREDICTION: accessed the concrete_compressive_strength_internship keyspace
+INFO 05/31/2022 07:34:44 AM PREDICTION: The table for Good Data created

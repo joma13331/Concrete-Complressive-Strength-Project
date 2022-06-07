@@ -1,0 +1,109 @@
+INFO 05/31/2022 07:35:05 AM TRAINING: Length of year of file = 4, Length of time of file = 6, Number of columns = 9
+INFO 05/31/2022 07:35:05 AM TRAINING: Good and Bad file directory created
+INFO 05/31/2022 07:35:05 AM TRAINING: Concrete_Data_31052022_073505.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:35:05 AM TRAINING: Column Length Validation Started!!
+INFO 05/31/2022 07:35:05 AM TRAINING: Concrete_Data_31052022_073505.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:35:05 AM TRAINING: Column Length Validation Completed!!
+INFO 05/31/2022 07:35:05 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:35:05 AM TRAINING: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_35_05.xls
+INFO 05/31/2022 07:35:05 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:35:05 AM TRAINING: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:35:48 AM TRAINING: Length of year of file = 4, Length of time of file = 6, Number of columns = 9
+INFO 05/31/2022 07:35:48 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:35:48 AM TRAINING: Good and Bad file directory created
+INFO 05/31/2022 07:35:48 AM TRAINING: Concrete_Data_31052022_073548.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:35:48 AM TRAINING: Column Length Validation Started!!
+INFO 05/31/2022 07:35:48 AM TRAINING: Concrete_Data_31052022_073548.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:35:48 AM TRAINING: Column Length Validation Completed!!
+INFO 05/31/2022 07:35:48 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:35:48 AM TRAINING: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_35_48.xls
+INFO 05/31/2022 07:35:48 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:35:49 AM TRAINING: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:42:36 AM TRAINING: Length of year of file = 4, Length of time of file = 6, Number of columns = 9
+INFO 05/31/2022 07:42:36 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:42:36 AM TRAINING: Good and Bad file directory created
+INFO 05/31/2022 07:42:36 AM TRAINING: Concrete_Data_31052022_074236.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:42:36 AM TRAINING: Column Length Validation Started!!
+INFO 05/31/2022 07:42:36 AM TRAINING: Concrete_Data_31052022_074236.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:42:36 AM TRAINING: Column Length Validation Completed!!
+INFO 05/31/2022 07:42:36 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:42:36 AM TRAINING: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_42_36.xls
+INFO 05/31/2022 07:42:36 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:42:36 AM TRAINING: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:43:58 AM TRAINING: Length of year of file = 4, Length of time of file = 6, Number of columns = 9
+INFO 05/31/2022 07:43:58 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:43:58 AM TRAINING: Good and Bad file directory created
+INFO 05/31/2022 07:43:58 AM TRAINING: Concrete_Data_31052022_074358.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:43:58 AM TRAINING: Column Length Validation Started!!
+INFO 05/31/2022 07:43:58 AM TRAINING: Concrete_Data_31052022_074358.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:43:58 AM TRAINING: Column Length Validation Completed!!
+INFO 05/31/2022 07:43:58 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:43:58 AM TRAINING: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_43_58.xls
+INFO 05/31/2022 07:43:58 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:43:58 AM TRAINING: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:44:33 AM TRAINING: Length of year of file = 4, Length of time of file = 6, Number of columns = 9
+INFO 05/31/2022 07:44:33 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:44:33 AM TRAINING: Good and Bad file directory created
+INFO 05/31/2022 07:44:33 AM TRAINING: Concrete_Data_31052022_074433.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:44:33 AM TRAINING: Column Length Validation Started!!
+INFO 05/31/2022 07:44:33 AM TRAINING: Concrete_Data_31052022_074433.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:44:33 AM TRAINING: Column Length Validation Completed!!
+INFO 05/31/2022 07:44:33 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:44:33 AM TRAINING: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_44_33.xls
+INFO 05/31/2022 07:44:33 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:44:33 AM TRAINING: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:46:21 AM TRAINING: Length of year of file = 4, Length of time of file = 6, Number of columns = 9
+INFO 05/31/2022 07:46:21 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:46:21 AM TRAINING: Good and Bad file directory created
+INFO 05/31/2022 07:46:21 AM TRAINING: Concrete_Data_31052022_074621.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:46:21 AM TRAINING: Column Length Validation Started!!
+INFO 05/31/2022 07:46:21 AM TRAINING: Concrete_Data_31052022_074621.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:46:21 AM TRAINING: Column Length Validation Completed!!
+INFO 05/31/2022 07:46:21 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:46:21 AM TRAINING: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_46_21.xls
+INFO 05/31/2022 07:46:21 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:46:22 AM TRAINING: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:46:56 AM TRAINING: Length of year of file = 4, Length of time of file = 6, Number of columns = 9
+INFO 05/31/2022 07:46:56 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:46:56 AM TRAINING: Good and Bad file directory created
+INFO 05/31/2022 07:46:56 AM TRAINING: Concrete_Data_31052022_074656.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:46:56 AM TRAINING: Column Length Validation Started!!
+INFO 05/31/2022 07:46:56 AM TRAINING: Concrete_Data_31052022_074656.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:46:56 AM TRAINING: Column Length Validation Completed!!
+INFO 05/31/2022 07:46:56 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:46:56 AM TRAINING: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_46_56.xls
+INFO 05/31/2022 07:46:56 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:46:56 AM TRAINING: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:47:32 AM TRAINING: Length of year of file = 4, Length of time of file = 6, Number of columns = 9
+INFO 05/31/2022 07:47:32 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:47:32 AM TRAINING: Good and Bad file directory created
+INFO 05/31/2022 07:47:32 AM TRAINING: Concrete_Data_31052022_074732.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:47:32 AM TRAINING: Column Length Validation Started!!
+INFO 05/31/2022 07:47:32 AM TRAINING: Concrete_Data_31052022_074732.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:47:32 AM TRAINING: Column Length Validation Completed!!
+INFO 05/31/2022 07:47:32 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:47:32 AM TRAINING: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_47_32.xls
+INFO 05/31/2022 07:47:32 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:47:32 AM TRAINING: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:48:40 AM TRAINING: Length of year of file = 4, Length of time of file = 6, Number of columns = 9
+INFO 05/31/2022 07:48:40 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:48:40 AM TRAINING: Good and Bad file directory created
+INFO 05/31/2022 07:48:40 AM TRAINING: Concrete_Data_31052022_074840.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:48:40 AM TRAINING: Column Length Validation Started!!
+INFO 05/31/2022 07:48:41 AM TRAINING: Concrete_Data_31052022_074840.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:48:41 AM TRAINING: Column Length Validation Completed!!
+INFO 05/31/2022 07:48:41 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:48:41 AM TRAINING: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_48_41.xls
+INFO 05/31/2022 07:48:41 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:48:41 AM TRAINING: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:56:50 AM TRAINING: Length of year of file = 4, Length of time of file = 6, Number of columns = 9
+INFO 05/31/2022 07:56:50 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:56:50 AM TRAINING: Good and Bad file directory created
+INFO 05/31/2022 07:56:50 AM TRAINING: Concrete_Data_31052022_075650.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:56:50 AM TRAINING: Column Length Validation Started!!
+INFO 05/31/2022 07:56:51 AM TRAINING: Concrete_Data_31052022_075650.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:56:51 AM TRAINING: Column Length Validation Completed!!
+INFO 05/31/2022 07:56:51 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:56:51 AM TRAINING: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_56_51.xls
+INFO 05/31/2022 07:56:51 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:56:51 AM TRAINING: Excel file Converted directly to required csv file for future preprocessing

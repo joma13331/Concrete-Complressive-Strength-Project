@@ -1,0 +1,26 @@
+INFO 05/31/2022 07:08:12 AM PREDICTION: Start of Prediction Pipeline
+ERROR 05/31/2022 07:08:12 AM PREDICTION: There was an ERROR while performing prediction on given data: [Errno 2] No such file or directory: 'D:\\Technical Education\\ineuron\\Internship\\projects\\Concrete Compressive Strength\\CCSCode\\CCSLogFiles\\training\\CCSDataLoader.txt'
+INFO 05/31/2022 07:10:33 AM PREDICTION: Start of Prediction Pipeline
+INFO 05/31/2022 07:10:34 AM PREDICTION: Data to predict on obtained
+ERROR 05/31/2022 07:10:34 AM PREDICTION: There was an ERROR while performing prediction on given data: Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+INFO 05/31/2022 07:13:30 AM PREDICTION: Start of Prediction Pipeline
+INFO 05/31/2022 07:13:30 AM PREDICTION: Data to predict on obtained
+ERROR 05/31/2022 07:13:30 AM PREDICTION: There was an ERROR while performing prediction on given data: Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+INFO 05/31/2022 07:14:31 AM PREDICTION: Start of Prediction Pipeline
+INFO 05/31/2022 07:14:31 AM PREDICTION: Data to predict on obtained
+ERROR 05/31/2022 07:14:31 AM PREDICTION: There was an ERROR while performing prediction on given data: Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+INFO 05/31/2022 07:24:17 AM PREDICTION: Start of Prediction Pipeline
+INFO 05/31/2022 07:24:17 AM PREDICTION: Data to predict on obtained
+INFO 05/31/2022 07:24:17 AM PREDICTION: End of EEPrediction Pipeline
+INFO 05/31/2022 07:25:06 AM PREDICTION: Start of Prediction Pipeline
+INFO 05/31/2022 07:25:06 AM PREDICTION: Data to predict on obtained
+INFO 05/31/2022 07:25:07 AM PREDICTION: End of EEPrediction Pipeline
+INFO 05/31/2022 07:25:45 AM PREDICTION: Start of Prediction Pipeline
+INFO 05/31/2022 07:25:45 AM PREDICTION: Data to predict on obtained
+INFO 05/31/2022 07:25:45 AM PREDICTION: End of EEPrediction Pipeline
+INFO 05/31/2022 07:30:47 AM PREDICTION: Start of Prediction Pipeline
+INFO 05/31/2022 07:30:47 AM PREDICTION: Data to predict on obtained
+INFO 05/31/2022 07:30:47 AM PREDICTION: End of EEPrediction Pipeline
+INFO 05/31/2022 07:34:24 AM PREDICTION: Start of Prediction Pipeline
+INFO 05/31/2022 07:34:24 AM PREDICTION: Data to predict on obtained
+INFO 05/31/2022 07:34:24 AM PREDICTION: End of EEPrediction Pipeline

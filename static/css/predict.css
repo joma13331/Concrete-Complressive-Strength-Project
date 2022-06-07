@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+html {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: Georgia, serif;
+  font-size: 100%;
+  padding: 2em;
+  padding-top: 0;
+  line-height: 1.5em;
+  background-color: whitesmoke;
+}
+
+#message{
+    color: red;
+    text-align: center;
+}
+#container{
+    display: grid;
+    grid-template-rows: auto min-content;
+    grid-template-columns: 1fr;
+    grid-template-areas: "project_name logo"
+    "table  table";
+    
+}
+#project_name{
+    grid-area: project_name;
+    justify-content: center;
+}
+
+#logo{
+    grid-area: logo;
+}
+
+#pred_result{
+    grid-area: table;
+    justify-self: center;
+    justify-content: center;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+#table_result, th, td, tr {
+  border: 1px solid black;
+  text-align: center;
+}

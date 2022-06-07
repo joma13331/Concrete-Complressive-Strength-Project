@@ -1,0 +1,10 @@
+INFO 05/31/2022 07:35:05 AM TRAINING: Concrete_Data_31052022_073505.xls transformed successfully
+INFO 05/31/2022 07:35:49 AM TRAINING: Concrete_Data_31052022_073548.xls transformed successfully
+INFO 05/31/2022 07:42:36 AM TRAINING: Concrete_Data_31052022_074236.xls transformed successfully
+INFO 05/31/2022 07:43:58 AM TRAINING: Concrete_Data_31052022_074358.xls transformed successfully
+INFO 05/31/2022 07:44:33 AM TRAINING: Concrete_Data_31052022_074433.xls transformed successfully
+INFO 05/31/2022 07:46:21 AM TRAINING: Concrete_Data_31052022_074621.xls transformed successfully
+INFO 05/31/2022 07:46:56 AM TRAINING: Concrete_Data_31052022_074656.xls transformed successfully
+INFO 05/31/2022 07:47:32 AM TRAINING: Concrete_Data_31052022_074732.xls transformed successfully
+INFO 05/31/2022 07:48:41 AM TRAINING: Concrete_Data_31052022_074840.xls transformed successfully
+INFO 05/31/2022 07:56:51 AM TRAINING: Concrete_Data_31052022_075650.xls transformed successfully

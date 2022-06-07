@@ -1,0 +1,16 @@
+{
+  "SampleFileName": "Concrete_Data_26052022_120000.xls",
+  "LengthOfDate": 8,
+  "LengthOfTime": 6,
+  "NumberOfColumns": 8,
+  "ColumnNames":{
+    "Cement (component 1)(kg in a m^3 mixture)": "float",
+    "Blast Furnace Slag (component 2)(kg in a m^3 mixture)": "float",
+    "Fly Ash (component 3)(kg in a m^3 mixture)": "float",
+    "Water  (component 4)(kg in a m^3 mixture)": "float",
+    "Superplasticizer (component 5)(kg in a m^3 mixture)": "float",
+    "Coarse Aggregate  (component 6)(kg in a m^3 mixture)": "float",
+    "Fine Aggregate (component 7)(kg in a m^3 mixture)": "float",
+    "Age (day)": "float"
+  }
+}

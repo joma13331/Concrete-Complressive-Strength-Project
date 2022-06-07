@@ -1,0 +1,50 @@
+INFO 05/31/2022 07:35:05 AM TRAINING: The features and labels have been obtained from the dataset
+INFO 05/31/2022 07:35:05 AM TRAINING: There are 0 features with missing values
+INFO 05/31/2022 07:35:05 AM TRAINING: Cement (component 1)(kg in a m^3 mixture),Blast Furnace Slag (component 2)(kg in a m^3 mixture),Fly Ash (component 3)(kg in a m^3 mixture),Water  (component 4)(kg in a m^3 mixture),Superplasticizer (component 5)(kg in a m^3 mixture),Coarse Aggregate  (component 6)(kg in a m^3 mixture),Fine Aggregate (component 7)(kg in a m^3 mixture) are the continuous features
+INFO 05/31/2022 07:35:05 AM TRAINING: Age (day) are the Discrete features
+INFO 05/31/2022 07:35:05 AM TRAINING: ['Water  (component 4)(kg in a m^3 mixture)'] are originally normal
+INFO 05/31/2022 07:35:49 AM TRAINING: The features and labels have been obtained from the dataset
+INFO 05/31/2022 07:35:49 AM TRAINING: There are 0 features with missing values
+INFO 05/31/2022 07:35:49 AM TRAINING: Cement (component 1)(kg in a m^3 mixture),Blast Furnace Slag (component 2)(kg in a m^3 mixture),Fly Ash (component 3)(kg in a m^3 mixture),Water  (component 4)(kg in a m^3 mixture),Superplasticizer (component 5)(kg in a m^3 mixture),Coarse Aggregate  (component 6)(kg in a m^3 mixture),Fine Aggregate (component 7)(kg in a m^3 mixture) are the continuous features
+INFO 05/31/2022 07:35:49 AM TRAINING: Age (day) are the Discrete features
+INFO 05/31/2022 07:35:49 AM TRAINING: ['Water  (component 4)(kg in a m^3 mixture)'] are originally normal
+INFO 05/31/2022 07:42:36 AM TRAINING: The features and labels have been obtained from the dataset
+INFO 05/31/2022 07:42:36 AM TRAINING: There are 0 features with missing values
+INFO 05/31/2022 07:42:36 AM TRAINING: Cement (component 1)(kg in a m^3 mixture),Blast Furnace Slag (component 2)(kg in a m^3 mixture),Fly Ash (component 3)(kg in a m^3 mixture),Water  (component 4)(kg in a m^3 mixture),Superplasticizer (component 5)(kg in a m^3 mixture),Coarse Aggregate  (component 6)(kg in a m^3 mixture),Fine Aggregate (component 7)(kg in a m^3 mixture) are the continuous features
+INFO 05/31/2022 07:42:36 AM TRAINING: Age (day) are the Discrete features
+INFO 05/31/2022 07:42:36 AM TRAINING: ['Water  (component 4)(kg in a m^3 mixture)'] are originally normal
+INFO 05/31/2022 07:43:58 AM TRAINING: The features and labels have been obtained from the dataset
+INFO 05/31/2022 07:43:58 AM TRAINING: There are 0 features with missing values
+INFO 05/31/2022 07:43:58 AM TRAINING: Cement (component 1)(kg in a m^3 mixture),Blast Furnace Slag (component 2)(kg in a m^3 mixture),Fly Ash (component 3)(kg in a m^3 mixture),Water  (component 4)(kg in a m^3 mixture),Superplasticizer (component 5)(kg in a m^3 mixture),Coarse Aggregate  (component 6)(kg in a m^3 mixture),Fine Aggregate (component 7)(kg in a m^3 mixture) are the continuous features
+INFO 05/31/2022 07:43:58 AM TRAINING: Age (day) are the Discrete features
+INFO 05/31/2022 07:43:58 AM TRAINING: ['Water  (component 4)(kg in a m^3 mixture)'] are originally normal
+INFO 05/31/2022 07:44:33 AM TRAINING: The features and labels have been obtained from the dataset
+INFO 05/31/2022 07:44:33 AM TRAINING: There are 0 features with missing values
+INFO 05/31/2022 07:44:33 AM TRAINING: Cement (component 1)(kg in a m^3 mixture),Blast Furnace Slag (component 2)(kg in a m^3 mixture),Fly Ash (component 3)(kg in a m^3 mixture),Water  (component 4)(kg in a m^3 mixture),Superplasticizer (component 5)(kg in a m^3 mixture),Coarse Aggregate  (component 6)(kg in a m^3 mixture),Fine Aggregate (component 7)(kg in a m^3 mixture) are the continuous features
+INFO 05/31/2022 07:44:33 AM TRAINING: Age (day) are the Discrete features
+INFO 05/31/2022 07:44:33 AM TRAINING: ['Water  (component 4)(kg in a m^3 mixture)'] are originally normal
+INFO 05/31/2022 07:46:22 AM TRAINING: The features and labels have been obtained from the dataset
+INFO 05/31/2022 07:46:22 AM TRAINING: There are 0 features with missing values
+INFO 05/31/2022 07:46:22 AM TRAINING: Cement (component 1)(kg in a m^3 mixture),Blast Furnace Slag (component 2)(kg in a m^3 mixture),Fly Ash (component 3)(kg in a m^3 mixture),Water  (component 4)(kg in a m^3 mixture),Superplasticizer (component 5)(kg in a m^3 mixture),Coarse Aggregate  (component 6)(kg in a m^3 mixture),Fine Aggregate (component 7)(kg in a m^3 mixture) are the continuous features
+INFO 05/31/2022 07:46:22 AM TRAINING: Age (day) are the Discrete features
+INFO 05/31/2022 07:46:22 AM TRAINING: ['Water  (component 4)(kg in a m^3 mixture)'] are originally normal
+INFO 05/31/2022 07:46:56 AM TRAINING: The features and labels have been obtained from the dataset
+INFO 05/31/2022 07:46:56 AM TRAINING: There are 0 features with missing values
+INFO 05/31/2022 07:46:56 AM TRAINING: Cement (component 1)(kg in a m^3 mixture),Blast Furnace Slag (component 2)(kg in a m^3 mixture),Fly Ash (component 3)(kg in a m^3 mixture),Water  (component 4)(kg in a m^3 mixture),Superplasticizer (component 5)(kg in a m^3 mixture),Coarse Aggregate  (component 6)(kg in a m^3 mixture),Fine Aggregate (component 7)(kg in a m^3 mixture) are the continuous features
+INFO 05/31/2022 07:46:56 AM TRAINING: Age (day) are the Discrete features
+INFO 05/31/2022 07:46:56 AM TRAINING: ['Water  (component 4)(kg in a m^3 mixture)'] are originally normal
+INFO 05/31/2022 07:47:32 AM TRAINING: The features and labels have been obtained from the dataset
+INFO 05/31/2022 07:47:32 AM TRAINING: There are 0 features with missing values
+INFO 05/31/2022 07:47:32 AM TRAINING: Cement (component 1)(kg in a m^3 mixture),Blast Furnace Slag (component 2)(kg in a m^3 mixture),Fly Ash (component 3)(kg in a m^3 mixture),Water  (component 4)(kg in a m^3 mixture),Superplasticizer (component 5)(kg in a m^3 mixture),Coarse Aggregate  (component 6)(kg in a m^3 mixture),Fine Aggregate (component 7)(kg in a m^3 mixture) are the continuous features
+INFO 05/31/2022 07:47:32 AM TRAINING: Age (day) are the Discrete features
+INFO 05/31/2022 07:47:32 AM TRAINING: ['Water  (component 4)(kg in a m^3 mixture)'] are originally normal
+INFO 05/31/2022 07:48:41 AM TRAINING: The features and labels have been obtained from the dataset
+INFO 05/31/2022 07:48:41 AM TRAINING: There are 0 features with missing values
+INFO 05/31/2022 07:48:41 AM TRAINING: Cement (component 1)(kg in a m^3 mixture),Blast Furnace Slag (component 2)(kg in a m^3 mixture),Fly Ash (component 3)(kg in a m^3 mixture),Water  (component 4)(kg in a m^3 mixture),Superplasticizer (component 5)(kg in a m^3 mixture),Coarse Aggregate  (component 6)(kg in a m^3 mixture),Fine Aggregate (component 7)(kg in a m^3 mixture) are the continuous features
+INFO 05/31/2022 07:48:41 AM TRAINING: Age (day) are the Discrete features
+INFO 05/31/2022 07:48:41 AM TRAINING: ['Water  (component 4)(kg in a m^3 mixture)'] are originally normal
+INFO 05/31/2022 07:56:51 AM TRAINING: The features and labels have been obtained from the dataset
+INFO 05/31/2022 07:56:51 AM TRAINING: There are 0 features with missing values
+INFO 05/31/2022 07:56:51 AM TRAINING: Cement (component 1)(kg in a m^3 mixture),Blast Furnace Slag (component 2)(kg in a m^3 mixture),Fly Ash (component 3)(kg in a m^3 mixture),Water  (component 4)(kg in a m^3 mixture),Superplasticizer (component 5)(kg in a m^3 mixture),Coarse Aggregate  (component 6)(kg in a m^3 mixture),Fine Aggregate (component 7)(kg in a m^3 mixture) are the continuous features
+INFO 05/31/2022 07:56:51 AM TRAINING: Age (day) are the Discrete features
+INFO 05/31/2022 07:56:51 AM TRAINING: ['Water  (component 4)(kg in a m^3 mixture)'] are originally normal

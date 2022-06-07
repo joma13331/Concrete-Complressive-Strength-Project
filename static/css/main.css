@@ -1,0 +1,49 @@
+@charset "UTF-8";
+html {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: Georgia, serif;
+  font-size: 100%;
+  background-color: white;
+  padding: 2em;
+  padding-top: 0;
+  line-height: 1.5em;
+  background-color: whitesmoke;
+}
+
+/*Grid Setup*/
+
+#container{
+    display: grid;
+    grid-template-rows: 0.5fr min-content 5fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "project_name logo"
+    "description description"
+    "predict train";
+}
+
+#project_name{
+    grid-area: project_name;
+}
+
+#logo{
+    grid-area: logo;
+    justify-self: right;
+}
+
+#description{
+    grid-area: description;
+}
+
+#predict{
+    grid-area: predict;
+}
+
+#train{
+    grid-area: train;
+}

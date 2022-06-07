@@ -1,0 +1,156 @@
+INFO 05/31/2022 07:00:24 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:00:24 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:00:24 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:00:24 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:00:24 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:00:24 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_00_24.xls
+INFO 05/31/2022 07:00:24 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:00:24 AM PREDICTION: Error occurred while direct conversion from excel to csv: No objects to concatenate
+INFO 05/31/2022 07:01:00 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:01:26 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:01:26 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:01:26 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:01:26 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:01:26 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:01:26 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_01_26.xls
+INFO 05/31/2022 07:01:26 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:01:26 AM PREDICTION: Error occurred while direct conversion from excel to csv: No objects to concatenate
+INFO 05/31/2022 07:01:58 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:02:28 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:02:28 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:02:28 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:02:28 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:02:28 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:02:28 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_02_28.xls
+INFO 05/31/2022 07:02:28 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:02:28 AM PREDICTION: Error occurred while direct conversion from excel to csv: No objects to concatenate
+INFO 05/31/2022 07:03:02 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:06:23 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:06:23 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:06:23 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:06:23 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:06:23 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:06:23 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_06_23.xls
+INFO 05/31/2022 07:06:23 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:06:23 AM PREDICTION: Error occurred while direct conversion from excel to csv: No objects to concatenate
+INFO 05/31/2022 07:06:57 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:08:11 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:08:11 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:08:11 AM PREDICTION: Concrete_Data_31052022_070811.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:08:11 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:08:11 AM PREDICTION: Concrete_Data_31052022_070811.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:08:11 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:08:11 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:08:11 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_08_11.xls
+INFO 05/31/2022 07:08:11 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:08:12 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:10:33 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:10:33 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:10:33 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:10:33 AM PREDICTION: Concrete_Data_31052022_071033.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:10:33 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:10:33 AM PREDICTION: Concrete_Data_31052022_071033.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:10:33 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:10:33 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:10:33 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_10_33.xls
+INFO 05/31/2022 07:10:33 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:10:33 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:13:30 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:13:30 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:13:30 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:13:30 AM PREDICTION: Concrete_Data_31052022_071330.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:13:30 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:13:30 AM PREDICTION: Concrete_Data_31052022_071330.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:13:30 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:13:30 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:13:30 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_13_30.xls
+INFO 05/31/2022 07:13:30 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:13:30 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:14:31 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:14:31 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:14:31 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:14:31 AM PREDICTION: Concrete_Data_31052022_071431.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:14:31 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:14:31 AM PREDICTION: Concrete_Data_31052022_071431.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:14:31 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:14:31 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:14:31 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_14_31.xls
+INFO 05/31/2022 07:14:31 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:14:31 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:19:50 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:19:50 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:19:50 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:19:50 AM PREDICTION: Concrete_Data_31052022_071431.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:19:50 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:19:51 AM PREDICTION: Concrete_Data_31052022_071431.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:19:51 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:19:51 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:19:51 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_19_51.xls
+INFO 05/31/2022 07:19:51 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:19:51 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:23:56 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:23:56 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:23:56 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:23:56 AM PREDICTION: Concrete_Data_31052022_071431.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:23:56 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:23:56 AM PREDICTION: Concrete_Data_31052022_071431.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:23:56 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:23:56 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:23:57 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_23_57.xls
+INFO 05/31/2022 07:23:57 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:23:57 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:24:17 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:24:17 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:24:17 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:24:17 AM PREDICTION: Concrete_Data_31052022_072417.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:24:17 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:24:17 AM PREDICTION: Concrete_Data_31052022_072417.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:24:17 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:24:17 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:24:17 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_24_17.xls
+INFO 05/31/2022 07:24:17 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:24:17 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:25:06 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:25:06 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:25:06 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:25:06 AM PREDICTION: Concrete_Data_31052022_072506.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:25:06 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:25:06 AM PREDICTION: Concrete_Data_31052022_072506.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:25:06 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:25:06 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:25:06 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_25_06.xls
+INFO 05/31/2022 07:25:06 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:25:06 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:25:44 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:25:44 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:25:44 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:25:44 AM PREDICTION: Concrete_Data_31052022_072544.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:25:44 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:25:44 AM PREDICTION: Concrete_Data_31052022_072544.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:25:44 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:25:44 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:25:44 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_25_44.xls
+INFO 05/31/2022 07:25:44 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:25:45 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:30:47 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:30:47 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:30:47 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:30:47 AM PREDICTION: Concrete_Data_31052022_073047.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:30:47 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:30:47 AM PREDICTION: Concrete_Data_31052022_073047.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:30:47 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:30:47 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:30:47 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_30_47.xls
+INFO 05/31/2022 07:30:47 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:30:47 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 05/31/2022 07:34:24 AM PREDICTION: Length of year of file = 4, Length of time of file = 6, Number of columns = 8
+INFO 05/31/2022 07:34:24 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 05/31/2022 07:34:24 AM PREDICTION: Good and Bad file directory created
+INFO 05/31/2022 07:34:24 AM PREDICTION: Concrete_Data_30052022_094600.xls is valid!! moved to GoodRaw folder
+INFO 05/31/2022 07:34:24 AM PREDICTION: Column Length Validation Started!!
+INFO 05/31/2022 07:34:24 AM PREDICTION: Concrete_Data_30052022_094600.xls validated. File remains in Good Folder
+INFO 05/31/2022 07:34:24 AM PREDICTION: Column Length Validation Completed!!
+INFO 05/31/2022 07:34:24 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 05/31/2022 07:34:24 AM PREDICTION: Bad files moved to archive: CCSDIV/ArchivedData\BadData_2022-05-31_07_34_24.xls
+INFO 05/31/2022 07:34:24 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 05/31/2022 07:34:24 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing

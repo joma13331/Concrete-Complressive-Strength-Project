@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Concrete Compressive Strength Project</title>
+
+        <style>
+            @charset "UTF-8";
+            html {
+              box-sizing: border-box;
+            }
+            * {
+              box-sizing: inherit;
+            }
+
+            body {
+              font-family: Georgia, serif;
+              font-size: 100%;
+              background-color: white;
+              padding: 2em;
+              padding-top: 0;
+              line-height: 1.5em;
+              background-color: whitesmoke;
+            }
+            #message{
+                color: red;
+                text-align: center;
+            }
+            #container{
+                display: grid;
+                grid-template-rows: auto min-content;
+                grid-template-columns: 1fr;
+                grid-template-areas: "project_name logo"
+                "logs logs";
+            }
+            h2 {
+                text-align: center;
+            }
+            #logs{
+                grid-area: logs;
+                justify-content: center;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div id="container">
+
+            <h1 id="project_name">
+                Concrete Compressive Strength
+            </h1>
+
+            <p id="logo"><img src={{image_url}} alt="iNeuron Logo" width=200px ></p>
+
+            <div id="logs">
+
+                <h2>{{heading}}</h2>
+                <h2 id="message">{{message}}</h2>
+
+                {%for log in logs%}
+                <p>{{log}}</p>
+                {%endfor%}
+            </div>
+            <h2><a href="/">CLICK HERE TO GO BACK TO HOME PAGE</a></h2>
+        </div>
+    </body>
+</html>

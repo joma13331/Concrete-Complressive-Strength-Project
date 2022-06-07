@@ -1,0 +1,10 @@
+INFO 05/31/2022 07:35:05 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:35:49 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:42:36 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:43:59 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:44:33 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:46:22 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:46:56 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:47:32 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:48:41 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:56:51 AM The dataset has been scaled using Standard Scalar

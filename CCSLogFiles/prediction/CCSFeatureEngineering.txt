@@ -1,0 +1,8 @@
+INFO 05/31/2022 07:10:34 AM Error while trying to scale data: Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+INFO 05/31/2022 07:13:30 AM Error while trying to scale data: Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+INFO 05/31/2022 07:14:31 AM Error while trying to scale data: Found array with 0 sample(s) (shape=(0, 8)) while a minimum of 1 is required by StandardScaler.
+INFO 05/31/2022 07:24:17 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:25:06 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:25:45 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:30:47 AM The dataset has been scaled using Standard Scalar
+INFO 05/31/2022 07:34:24 AM The dataset has been scaled using Standard Scalar

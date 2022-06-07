@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Concrete Compressive Strength Project</title>
+        <link rel="stylesheet" href="static/css/predict.css">
+    </head>
+    <body>
+        <div id="container">
+            
+            <h1 id="project_name">
+                Concrete Compressive Strength
+            </h1>
+
+            <p id="logo"><img src={{image_url}} alt="iNeuron Logo" width=200px ></p>
+
+            <div id="pred_result">
+
+                <h2>Prediction Result</h2>
+                <h2 id="message">{{message}}</h2>
+                
+                <table id="table_result">
+                    <tr>
+                        <th>Cement (component 1)(kg in a m^3 mixture)</th>
+                        <th>Blast Furnace Slag (component 2)(kg in a m^3 mixture)</th>
+                        <th>Fly Ash (component 3)(kg in a m^3 mixture)</th>
+                        <th>Water  (component 4)(kg in a m^3 mixture)</th>
+                        <th>Superplasticizer (component 5)(kg in a m^3 mixture)</th>
+                        <th>Coarse Aggregate  (component 6)(kg in a m^3 mixture)</th>
+                        <th>Fine Aggregate (component 7)(kg in a m^3 mixture)</th>
+                        <th>Age (day)</th>
+                        <th>Concrete compressive strength(MPa, megapascals)</th>
+
+                    </tr>
+                    {%for record in records%}
+                    <tr>
+                        <td>{{record['Cement (component 1)(kg in a m^3 mixture)']}}</td>
+                        <td>{{record['Blast Furnace Slag (component 2)(kg in a m^3 mixture)']}}</td>
+                        <td>{{record['Fly Ash (component 3)(kg in a m^3 mixture)']}}</td>
+                        <td>{{record['Water  (component 4)(kg in a m^3 mixture)']}}</td>
+                        <td>{{record['Superplasticizer (component 5)(kg in a m^3 mixture)']}}</td>
+                        <td>{{record['Coarse Aggregate  (component 6)(kg in a m^3 mixture)']}}</td>
+                        <td>{{record['Fine Aggregate (component 7)(kg in a m^3 mixture)']}}</td>
+                        <td>{{record['Age (day)']}}</td>
+                        <td>{{record['Concrete compressive strength(MPa, megapascals)']}}</td>
+
+                    </tr>
+                    {%endfor%}
+                </table>
+
+                <h2><a href="/">CLICK HERE TO GO BACK TO HOME PAGE</a></h2>
+                
+            </div>
+        </div>
+    </body>
+</html>
